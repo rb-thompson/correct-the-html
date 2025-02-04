@@ -31,7 +31,14 @@ To view the project locally, you can either open the project files in your code 
 ### Tasks
 
 Inside `index.html`:
-- [ ] Update the HTML tags so that they are correct and semantic
+- [x] Update the HTML tags so that they are correct and semantic
+- [x] Update the header section to use `header` element, add a `nav` element, and moved `header` class to nav
+- [x] Update `div` for main content with `main` element
+- [x] Update text contained in `div` to use `p` element
+- [x] Update content to replace divs with `article` and `section` elements
+- [x] Update `alt` description for image and removed empty `srcset` field
+- [x] Update `i` and `b` elements to use `em` and `strong`
+- [x] Update footer section `div` with `footer` element 
 
 
 ### Tips
